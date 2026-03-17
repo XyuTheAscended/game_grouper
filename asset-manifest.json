@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/game_grouper/static/css/main.307227de.css",
-    "main.js": "/game_grouper/static/js/main.3e2a8a33.js",
+    "main.css": "/game_grouper/static/css/main.3cb02748.css",
+    "main.js": "/game_grouper/static/js/main.6acb706c.js",
     "index.html": "/game_grouper/index.html",
-    "main.307227de.css.map": "/game_grouper/static/css/main.307227de.css.map",
-    "main.3e2a8a33.js.map": "/game_grouper/static/js/main.3e2a8a33.js.map"
+    "main.3cb02748.css.map": "/game_grouper/static/css/main.3cb02748.css.map",
+    "main.6acb706c.js.map": "/game_grouper/static/js/main.6acb706c.js.map"
   },
   "entrypoints": [
-    "static/css/main.307227de.css",
-    "static/js/main.3e2a8a33.js"
+    "static/css/main.3cb02748.css",
+    "static/js/main.6acb706c.js"
   ]
 }
